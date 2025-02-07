@@ -34,7 +34,7 @@ This project is a web application that uses deep learning to detect green cover 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/green-cover-detection.git
+   git clone https://github.com/sijanpaudel/GreenCover.git
    cd green-cover-detection
 
 2. **Install dependencies**:
